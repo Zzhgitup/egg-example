@@ -1,7 +1,4 @@
-# Reactbook
-
-node.js 框架 egg 模板
-
+# node.js 框架 egg 模板
 ## QuickStart
 
 <!-- add docs here for user -->
