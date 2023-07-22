@@ -1,6 +1,6 @@
 # Reactbook
 
-node练手项目
+node.js 框架 egg 模板
 
 ## QuickStart
 
